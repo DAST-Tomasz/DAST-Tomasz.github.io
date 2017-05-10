@@ -407,9 +407,8 @@ footer {
     height: 60px;
 }
 
-#tootsy .container .row #down .copyright {
+#tootsy .container .row .copyright {
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     line-height: 60px;
-    /*left: 30%;*/
 }
